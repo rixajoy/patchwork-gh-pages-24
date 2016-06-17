@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://www.google.ca/search?q=funny+images&biw=1280&bih=728&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiYluXr463NAhVDWx4KHTEuCWUQ_AUIBigB#imgrc=28whV_IjDXEEyM%3A"
+name: "Rixa Bugelli"
+title: "Developer"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
